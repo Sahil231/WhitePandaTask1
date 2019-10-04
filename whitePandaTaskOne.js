@@ -9,7 +9,7 @@ div.classList.add("content")
 
 var img = document.createElement("img");
 img.classList.add("image")
-img.src="BirdPicture.png"
+img.src="Images/BirdPicture.png"
 div.appendChild(img)
 
 var div2 = document.createElement("div");
