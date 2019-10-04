@@ -1,0 +1,107 @@
+		body {
+			font-size: 1.1em;
+			line-height: 1.6;
+			font-family: 'Roboto', sans-serif;
+			margin: 0px 0px 0px 80px;
+			background-color: #fcfcfc;
+		}
+		#topBar {
+			height: 70px;
+			background-color: white;
+			width: 1140px;
+			margin-bottom: 50px;
+			box-shadow: 0px 0px 39px -12px rgba(209,209,209,1);
+		} 
+		#div1 {
+			background-color: #f9f9f9;
+			padding:20px;
+			width: 1100px;
+		}
+		.div2 {
+			padding-bottom: 20px;
+			width:800px;
+		}
+		.greenText {
+			color: #06c7b0;
+		}
+		.greyText {
+			color: #969696;
+			font-size: 0.9em;
+		}
+		.button {
+			font-size: 0.9em;
+			padding: 5px 15px 5px 15px;
+			border: 1px solid #06c7b0;
+			display:inline-block;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+		.content {
+			margin-top: 70px;
+			padding: 30px;
+			background-color: white;
+			width: 290px;
+			float: left;
+			border-radius: 4px;
+		}
+		.nl {
+			margin-right: 40px;
+		}
+		#logo {
+			float: left;
+			padding: 10px;
+			height: 50px;
+		}
+		#otherLogos {
+			float:right;
+			padding: 10px;
+			height:50px;
+		}
+		.image {
+			float: left;
+			height: 70px;
+		}
+		.below {
+			padding-top: 20px;
+			padding-bottom: 20px;
+			clear: both;
+		}
+		.head { 
+			margin-top: 20px;
+			font-weight: bold;
+		}
+		.head,.head2 {
+			margin-left: 100px;
+		}
+		.content:hover {
+			box-shadow: 0px 0px 39px -12px rgba(209,209,209,1);
+			cursor: pointer;
+		}
+		#separator {
+			height: 60px;
+			clear: both;		
+		}
+		#bottom {
+			width: 1240px;
+			background-color: #fefefe;
+			padding-top:50px;
+			padding-bottom: 25px;
+			color:#a0a0a0;
+		}
+		#icons {
+			padding-left:180px;
+			width:500px;
+			margin: auto;
+		}
+		.fab {
+			width:20%;
+		}
+		.bottomText {
+			text-align: center;
+		}
+		#logo,#otherLogos,span,.fab:hover {
+			cursor: pointer;
+		}
+		span {
+			text-decoration: underline;
+		}
